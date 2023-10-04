@@ -1,5 +1,5 @@
 # Trabalho_DSV
- Trabalho da Disicplina de Software Visual 
+ Trabalho da Disciplina de Software Visual 
 
  Equipe: Graziela Rudinger e Yuri Valeixo
 
