@@ -3,7 +3,7 @@
 
  Equipe: Graziela Rudinger e Yuri Valeixo
 
- Tema: Gerenciamento de uma Oficina
+ Tema: Checklist Oficina
 
  Resumo: Esse programa trata de um sistema de gerenciamento que envolve carros, clientes, peças, notas fiscais de serviços e checklists. Ele permite o armazenamento e recuperação de informações relacionadas a essas entidades por meio de uma API. As classes definem a  estrutura de dados e os relacionamentos entre elas:
  
