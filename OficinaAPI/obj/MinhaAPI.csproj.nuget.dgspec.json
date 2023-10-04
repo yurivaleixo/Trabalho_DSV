@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yuri\\Downloads\\MinhaAPI 2 2\\OficinaAPI\\MinhaAPI.csproj": {}
+    "D:\\Sistemas de Informação\\Desenvolvimento de Software Visual 2023\\Trabalho_DSV\\OficinaAPI\\MinhaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yuri\\Downloads\\MinhaAPI 2 2\\OficinaAPI\\MinhaAPI.csproj": {
+    "D:\\Sistemas de Informação\\Desenvolvimento de Software Visual 2023\\Trabalho_DSV\\OficinaAPI\\MinhaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yuri\\Downloads\\MinhaAPI 2 2\\OficinaAPI\\MinhaAPI.csproj",
+        "projectUniqueName": "D:\\Sistemas de Informação\\Desenvolvimento de Software Visual 2023\\Trabalho_DSV\\OficinaAPI\\MinhaAPI.csproj",
         "projectName": "MinhaAPI",
-        "projectPath": "C:\\Users\\yuri\\Downloads\\MinhaAPI 2 2\\OficinaAPI\\MinhaAPI.csproj",
+        "projectPath": "D:\\Sistemas de Informação\\Desenvolvimento de Software Visual 2023\\Trabalho_DSV\\OficinaAPI\\MinhaAPI.csproj",
         "packagesPath": "C:\\Users\\yuri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yuri\\Downloads\\MinhaAPI 2 2\\OficinaAPI\\obj\\",
+        "outputPath": "D:\\Sistemas de Informação\\Desenvolvimento de Software Visual 2023\\Trabalho_DSV\\OficinaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yuri\\AppData\\Roaming\\NuGet\\NuGet.Config"

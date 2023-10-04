@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v1+dipLP19lwOcM5fTCLeTVhvOM5X0X2rjREHoqGbSJLyIgMoyUNfjbfZJmTcimbrp7mhaFI298b97VyMIIxaQ==",
+  "dgSpecHash": "vORiBC1jkD1bLeyndGPDs1tdCAc6SvPfCuUpfZQvwUySX7BwZSa7zEt/1f+k8kgmOR/6m2rWM0NmKJgOMV9c2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yuri\\Downloads\\MinhaAPI 2 2\\OficinaAPI\\MinhaAPI.csproj",
+  "projectFilePath": "D:\\Sistemas de Informação\\Desenvolvimento de Software Visual 2023\\Trabalho_DSV\\OficinaAPI\\MinhaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yuri\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\yuri\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
